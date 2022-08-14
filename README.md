@@ -1,5 +1,13 @@
 # work-day-schedule
 
+a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+Link to deployed applicaton:
+http://vianvianc.github.io/work-day-schedule
+
+Website mockup:
+![mockup](assets/images/work-day-schedule.png)
+
 Create a simple calendar application that allows a user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
